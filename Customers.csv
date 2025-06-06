@@ -1,0 +1,29 @@
+Row Labels,Sum of Quantity,
+Kokapet,483,
+Hitech City,408,
+Narsingi,388,
+Madhapur,240,
+Nanakramguda,202,
+Gachibowli,78,
+Grand Total,1799,
+,,
+,,
+,,
+Row Labels,Sum of Total Cost,Sum of Total Cost2
+Kokapet,27.48%,"? 83,095.00"
+Narsingi,21.73%,"? 65,705.00"
+Hitech City,21.05%,"? 63,665.00"
+Madhapur,13.82%,"? 41,780.00"
+Nanakramguda,11.29%,"? 34,150.00"
+Gachibowli,4.62%,"? 13,980.00"
+Grand Total,100.00%,"? 3,02,375.00"
+,,
+,,
+Row Labels,Sum of Quantity,Sum of Total Cost
+Kokapet,483,27.48%
+Hitech City,408,21.05%
+Narsingi,388,21.73%
+Madhapur,240,13.82%
+Nanakramguda,202,11.29%
+Gachibowli,78,4.62%
+Grand Total,1799,100.00%
